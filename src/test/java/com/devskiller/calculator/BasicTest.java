@@ -15,7 +15,7 @@ public class BasicTest {
         int result = calculator.add(2, 3);
 
         //then
-        assertThat(result).isEqualTo(9);
+        assertThat(result).isEqualTo(10);
     }
 
     @Test
