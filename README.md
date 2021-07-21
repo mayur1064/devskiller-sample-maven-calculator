@@ -1,6 +1,6 @@
 # Devskiller programming task sample - Java with Maven
 
-## Introduction
+# Introduction
 
 With [Devskiller.com](https://devskiller.com) you can assess your candidates'
 programming skills as a part of your recruitment process. We have found that
