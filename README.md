@@ -1,4 +1,4 @@
-### Devskiller programming task sample - Java with Maven
+#### Devskiller programming task sample - Java with Maven
 
 ## Introduction
 
