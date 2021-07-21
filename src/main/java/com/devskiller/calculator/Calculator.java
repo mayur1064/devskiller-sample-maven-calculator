@@ -19,7 +19,7 @@ public class Calculator {
 		{
 		   throw new IllegalArgumentException();
 		}
-		return a*b;
+		return a/b;
 	}
 
 }
